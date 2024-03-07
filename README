@@ -4,6 +4,8 @@ A aplicação tem como propósito simular o processo de registro de uma conta ba
 
 A seguir, apresentamos imagens do projeto para uma demonstração visual:
 ![Imagem do projeto sem os campos preenchidos](./src/assets/appSemBotão.png)
+
 ![Imagem do projeto com os campos preenchidos](./src/assets/appComBotão.png)
+
 ![Imagem do projeto após clicar no botão](./src/assets/appAlert.png)
 

@@ -12,7 +12,7 @@ export const GlobalStyles = StyleSheet.create(
             justifyContent: "center"
         },
         title:{
-            fontSize: 50,
+            fontSize: 35,
             fontWeight: "bold",
             color: 'aliceblue',
             textShadowColor: 'rgba(0, 0, 0, 0.5)', // Cor da sombra
@@ -25,8 +25,8 @@ export const GlobalStyles = StyleSheet.create(
             backgroundColor: 'aliceblue'
         },
         imgIcon:{
-            width: 200,
-            height: 200
+            width: 100,
+            height: 100
         }
     }
 )

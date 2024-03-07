@@ -1,0 +1,9 @@
+Este projeto consiste em uma aplicação móvel desenvolvida para dispositivos iOS e Android, utilizando React Native em conjunto com o Expo. A combinação dessas ferramentas permite explorar plenamente suas capacidades.
+
+A aplicação tem como propósito simular o processo de registro de uma conta bancária, fornecendo campos para inserção do nome, CPF, número de celular, gênero e limite inicial desejado, além de um botão para finalizar o cadastro.
+
+A seguir, apresentamos imagens do projeto para uma demonstração visual:
+![Imagem do projeto sem os campos preenchidos](./src/assets/appSemBotão.png)
+![Imagem do projeto com os campos preenchidos](./src/assets/appComBotão.png)
+![Imagem do projeto após clicar no botão](./src/assets/appAlert.png)
+
